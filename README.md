@@ -1,6 +1,6 @@
 # DevuMusic
 >Telegram Music Bot 🇮🇳❤️
-<img src="https://telegra.ph/file/86711a7a158e4165a126f.jpg"/><br><br>
+<img src="https://telegra.ph/file/6b571422950e94bf82d3c.png"/><br><br>
 
 
 
