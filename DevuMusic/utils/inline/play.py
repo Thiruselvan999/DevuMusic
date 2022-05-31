@@ -53,7 +53,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -80,7 +80,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -122,7 +122,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -157,7 +157,7 @@ def telegram_markup(_, chat_id):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -194,7 +194,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -225,7 +225,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
@@ -249,7 +249,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
                 url=f"https://t.me/SILENT_DEVS",
             ),
             InlineKeyboardButton(
-                text="°ɪɴʟɪɴᴇ°,
+                text="°ɪɴʟɪɴᴇ°",
                 switch_inline_query_current_chat="",
             ),
         ],
