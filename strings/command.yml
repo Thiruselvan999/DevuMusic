@@ -4,7 +4,7 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["test"]
+PING_COMMAND : ["ping"]
 START_COMMAND : ["!!!!!!!ghjjgfdAafbjkh456Er"]
 HELP_COMMAND : ["!!!!!!!bhkkbisilbdekahelp"]
 SETTINGS_COMMAND : ["panel"]
