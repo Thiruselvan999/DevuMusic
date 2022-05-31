@@ -1,4 +1,4 @@
-.
+#lol
 
 import asyncio
 import importlib
