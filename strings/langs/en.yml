@@ -238,7 +238,7 @@ stream_4 : "__ᴅᴇᴠᴜ ʀᴏʙᴏᴛ sᴛʀᴇᴀᴍɪɴɢ__ 🧚‍♀️\n
 
 #General Buttons
 CLOSE_BUTTON  : "°ᴄʟᴏsᴇ°"
-CLOSEMENU_BUTTON  : "°ᴄʟᴏsᴇ ᴍᴇɴᴜ°"
+CLOSEMENU_BUTTON  : "↷ᴄʟᴏsᴇ↶"
 BACK_BUTTON : "°ʙᴀᴄᴋ°"
 UNBAN_BUTTON : "°ᴜɴʙᴀɴ ᴀssɪsᴛᴀɴᴛ°"
 
@@ -276,8 +276,8 @@ P_B_4 : "°ᴘʟᴀʏ ᴘʟᴀʏʟɪsᴛ°"
 
 #Playlist
 PL_B_1 : "°ᴘʟᴀʏ ᴘʟᴀʏʟɪsᴛ°"
-PL_B_2 : "✛ ᴘʟᴀʏʟɪsᴛs"
-PL_B_3 : "✛ ᴀᴅᴅɪᴛɪᴏɴᴀʟ"
+PL_B_2 : "°ᴘʟᴀʏʟɪsᴛs°"
+PL_B_3 : "⇅ᴀᴅᴅɪᴛɪᴏɴᴀʟ"
 PL_B_4 : "∘ᴘʟᴀʏ ᴍᴏᴅᴇ∘"
 PL_B_5 : "∘ᴅᴇʟ ᴀʟʟ ᴘʟᴀʏʟɪsᴛ∘"
 PL_B_6 : "∘ᴅᴇʟᴇᴛᴇ ᴘʟᴀʏʟɪsᴛ∘"
