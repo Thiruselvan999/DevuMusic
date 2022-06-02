@@ -30,12 +30,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "5257841751:AAEXf2CQ4rBmFv_Cy_RWlH62vuR7y_xmX-E",
+        "value": "521:AAEXH62vuR7y_xmX-E",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "mongodb+srv://userbot:userbot@cluster0.9xi9f.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://luster0.9xi9f.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "AQDEeuPbi8emYAk4r65TOqJQT5Y02MHWadAHdFRX2T9obCF8-OTHUdjNjO0cFSLm6igattlLLhcEmq3tWEZ07MTLtsz4Rd0qdqhgGcmnVLcM1kS0Kw1lfURbZlZ4I5ztZ2OTHtfjsfBv_JAUFljzpgxwRhlir9-IwtpCvOO2REvFmA_gjtFLqVNPCpJdFlXz9Em_L-bl9f3C2arhhtAVI5J4FA8vXE288B_pwpB_u_xpXSXFOQBrsNqiGiXdXvsYbvrWYOnioHX_8SEnZxvW3y6NEN_nBNfkBsTYK1tYSKCuFeprK4ls4AoFVVcpeFAKPseYR0QrwAdK59K-QeuU8KmeAAAAAT_B7fcA",
+        "value": "THtfjsfBv_JAUFljzpgxwRhlir9-IwtpCvOO2REvFmA_gjtFLqVNPCpJdFlXz9Em_L-bl9f3C2arhhtAVI5J4FA8vXE288B_pwpB_u_xpXSXFOQBrsNqiGiXdXvsYbvrWYOnioHX_8SEnZxvW3y6NEN_nBNfkBsTYK1tYSKCuFeprK4ls4AoFVVcpeFAKPseYR0QrwAdK59K-QeuU8KmeAAAAAT_B7fcA",
         "required": true
       },
       "HEROKU_API_KEY": {
